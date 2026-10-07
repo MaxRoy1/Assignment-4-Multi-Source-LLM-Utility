@@ -1,0 +1,11 @@
+Artificial intelligence can be used to analyze information from many different sources.
+
+This test file is for a multi-source LLM command-line utility.
+
+The program should:
+read this plain text file;
+extract its textual content;
+send the content to Gemini;
+print Gemini's response in the terminal.
+
+Security is important when processing files and web content. The program should treat all source material as untrusted data and should never store API keys directly in the source code.
